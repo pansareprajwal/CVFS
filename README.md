@@ -39,3 +39,10 @@ The CVFS interactive shell supports the following custom commands:
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/pansareprajwal/Custom-Virtual-File-System.git](https://github.com/pansareprajwal/Custom-Virtual-File-System.git)
+
+👨‍💻 Author
+Prajwal Sanjay Pansare
+
+GitHub: [@pansareprajwal](https://github.com/pansareprajwal)
+
+LinkedIn: Prajwal Pansare
